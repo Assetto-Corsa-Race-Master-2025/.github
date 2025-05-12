@@ -66,13 +66,6 @@
 ![Assetto Interface](https://i.ytimg.com/vi/UGMehNPATx8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCbHlEiOx_nLb6xuEaCjSy9v7VYeg)  
 *Optimized racing interface.*  
 
-**Mod Installation Tool**  
-![Mod Tool](https://i.ytimg.com/vi/2x2z2x2y2zE/maxresdefault.jpg)  
-*Tool for seamless mod integration.*  
-
-**Graphics Setup Panel**  
-![Graphics Panel](https://i.ytimg.com/vi/3x3z3x3y3zE/maxresdefault.jpg)  
-*Panel for performance optimization.*  
 
 ---
 
